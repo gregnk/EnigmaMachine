@@ -6,4 +6,4 @@ Credits goes to my history teacher for [the name](https://en.wikipedia.org/wiki/
 ## Copyright
 (C) 2018 Gregory Karastergios
 
-This program is distributed under the ISC License. See [LICENSE.md](https://github.com/gregnk/EnigmaMachine/LICENSE.md) for more details.
+This program is distributed under the ISC License. See [LICENSE.md](https://github.com/gregnk/EnigmaMachine/blob/master/LICENSE.md) for more details.
